@@ -1,0 +1,25 @@
+
+  body {
+  background-color: #424242;
+}
+
+h1 {
+  color: #ff5139;
+  margin-left: 20px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: "Century Gothic", Verdana, Arial, sans-serif;
+  font-size: 22px;
+}
+
+p {
+	color: #FFFFFF;
+	margin: 25px 50px;
+	letter-spacing: 2px;
+	font-family: "Century Gothic", Verdana, Arial, sans-serif;
+	font-size: 12px;
+}
+
+a {
+	color: #21d8b7
+}
