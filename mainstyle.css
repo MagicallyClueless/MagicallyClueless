@@ -31,12 +31,12 @@ img.header {
   box-sizing: border-box;
 }
 
-/*Columns*/
-.column {
-  float:left;
-  width: 50%;
+/*Containers*/
+.container-fluid {
+  width:100%;
   padding:20px;
-  margin:10px;
+  background-color: #5d756a;
+  overflow: auto;
 }
 
 /*etc*/
@@ -48,7 +48,8 @@ p {
 	color: #FFFFFF;
 	letter-spacing: 2px;
 	font-family: "Century Gothic", Verdana, Arial, sans-serif;
-	font-size: 12px;
+	font-size: 14px;
+	text-indent: 1em;
 }
 
 a {
@@ -59,7 +60,7 @@ h1 {
   text-align: center;
   letter-spacing: 3px;
   font-family: "Century Gothic", Verdana, Arial, sans-serif;
-  font-size: 50px;
+  font-size: 40px;
   color: #FFFFFF;
 }
 
@@ -91,7 +92,7 @@ h1 {
 }
 
 .topnav a:hover {
-  background-color: #424242;
+  background-color: #262626;
   color: #ff5139;
   text-transform: uppercase;
 }
